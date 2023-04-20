@@ -13,7 +13,7 @@ class BMW(Car):
         self.size = size
         super().__init__(color, brand)
 
-       
+
 
     def display(self):
         super().display()

@@ -1,4 +1,4 @@
-#nheritance: Inheritance is a mechanism in OOP that allows us to create 
+#inheritance: Inheritance is a mechanism in OOP that allows us to create 
 #a new class based on an existingS class. 
 #The new class inherits all the attributes and methods of the existing class, 
 #and can also define its own attributes and methods. Here's an example of 

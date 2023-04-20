@@ -20,7 +20,7 @@ class Employee(person):
         super().display()
         print(self.salary)
         print(self.post)
- 
+
 
 #creare object        
 e = Employee("ram",22,42000,"manager")
